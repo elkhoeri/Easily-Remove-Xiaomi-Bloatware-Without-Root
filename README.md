@@ -140,10 +140,11 @@
 
 ---
 
+
 ⚠️
 🛑
-
-**𝘽𝙀𝙍𝘽𝘼𝙃𝘼𝙔𝘼‼️ ☣️☢️**
+<details open>
+<summary>**𝘽𝙀𝙍𝘽𝘼𝙃𝘼𝙔𝘼‼️ ☣️☢️**</summary>
 
 ***Perhatikan setiap app yang akan di uninstall,  JANGAN ASAL-ASALAN!
 salah uninstall bisa berakibat malfungsi-brick- hingga bootloop.***
@@ -152,6 +153,13 @@ salah uninstall bisa berakibat malfungsi-brick- hingga bootloop.***
 tapi kalau terlanjur terjadi??
 
 siapkan kopi☕🚬  camilan🍟🍿  kuota📳🌐  ⇒ googling di yandex.
+  
+</details>
+
+
+
+
+
 
 😃 𝙎𝙚𝙢𝙤𝙜𝙖 𝙗𝙚𝙧𝙢𝙖𝙣𝙛𝙖𝙖𝙩  
 ⚛️ 𝙀𝙇𝙆𝙃𝙊𝙀𝙍𝙄
