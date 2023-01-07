@@ -1,5 +1,6 @@
 # Easily-Remove-Xiaomi-Bloatware-Without-Root
 Tanpa root dan tanpa UBL kamu bisa uninstall aplikasi bawaan / bloatware, khususnya XIAOMI.
+
 ✍️𝙐𝙣𝙞𝙣𝙨𝙩𝙖𝙡𝙡 𝘼𝙥𝙥 𝙗𝙡𝙤𝙖𝙩𝙬𝙖𝙧𝙚 𝙓𝙞𝙖𝙤𝙢𝙞
 
 💽 𝓘𝓷𝓼𝓽𝓪𝓵𝓪𝓼𝓲
