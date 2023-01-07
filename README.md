@@ -88,4 +88,4 @@ BERBAHAYA!!☣️☢️
 tapi kalau terlanjur terjadi?? siapkan kopi☕🚬camilan🍟🍿kuota📳🌐 ⇒ googling di yandex.
 
 😃 𝙎𝙚𝙢𝙤𝙜𝙖 𝙗𝙚𝙧𝙢𝙖𝙣𝙛𝙖𝙖𝙩  
-⚛️ 𝙄𝙇𝙆𝙃𝙊𝙀𝙍𝙄
+⚛️ 𝙀𝙇𝙆𝙃𝙊𝙀𝙍𝙄
