@@ -1,0 +1,90 @@
+# Easily-Remove-Xiaomi-Bloatware-Without-Root
+Tanpa root dan tanpa UBL kamu bisa uninstall aplikasi bawaan / bloatware, khususnya XIAOMI.
+✍️𝙐𝙣𝙞𝙣𝙨𝙩𝙖𝙡𝙡 𝘼𝙥𝙥 𝙗𝙡𝙤𝙖𝙩𝙬𝙖𝙧𝙚 𝙓𝙞𝙖𝙤𝙢𝙞
+
+💽 𝓘𝓷𝓼𝓽𝓪𝓵𝓪𝓼𝓲
+1. Extract File .zip
+2. Klik kanan installer.exe ⇒ Run as administrator ⇒ Yes
+3. Muncul terminal ktik Y ⇒ enter ⇒ Y ⇒ enter ⇒ Y ⇒ enter
+4. Muncul installer window ⇒ next ⇒ finish
+5. Close terminal
+
+
+✅ 𝓥𝓮𝓻𝓲𝓯𝓲𝓴𝓪𝓼𝓲
+1. Aktifkan Developer Mode di HP xioami
+	⇒ Pergi ke ⚙️ Settings/pengaturan di sistem xiaomi kamu ⇒ About phone ⇒ Ketuk 'MIUI version' 8X sehingga muncul keterangan You are now developers!.
+	⇒ Masih Di menu Settings ⇒ Additional settings ⇒ Developer options ⇒ Aktifkan USB debugging ⇒ Cek List persyaratannya - pilih OK.
+
+2. Sambungkan Hp xioami kamu dengan laptop/PC yang sudah terinstall adb (keadaan HP menyala dan tidak terkunci)
+
+
+
+📲 𝓘𝓷𝓲𝓼𝓲𝓪𝓼𝓲
+1. Kembali ke PC
+	⇒ Buka directory C:\ ⇒ masuk ke folder 'adb' atau 'Minimal ADB and Fastboot'
+	⇒ pilih 'cmd-here.exe' ⇒ Klik kanan ⇒ Run as administrator ⇒ Yes
+	⇒ atau tekan 'shift + klik kanan' ⇒  'open command window here' atau 'Open PowerShell window here'
+
+2. Terbuka terminal
+	⇒ ketik perintah berikut
+	  adb devices
+
+3. Muncul izin otorisasi di HP
+	⇒ jika muncul permission (izin) pilih OK
+	
+	🥵🤯😵‍💫
+	⇒ jika gagal (unauthorized) putuskan koneksi HP dengan PC ⇒ restart ⇒ cek kembali USB debugging
+	⇒ sambung kembali ⇒ dan ulangi perintah adb devices
+	
+	😃👏🥳
+	⇒ jika berhasil akan muncul command berikut diterminal CMD
+		C:\Minimal ADB and Fastboot>adb devices
+		List of devices attached
+		* daemon not running; starting now at tcp:5037
+		* daemon started successfully
+		xxxxxxxx        unauthorized
+
+	⇒ xxxxxxxx adalah serialphone kamu yang ditangkap saat ini
+	⇒ untuk memastikannya kamu bisa ulangi perintah adb devices (shortcut-nya kamu tinggal pencet 🔼 - panah atas di keyboard kamu)
+
+
+🪦 𝓔𝓴𝓼𝓮𝓴𝓾𝓼𝓲 - 𝙪𝙣𝙞𝙣𝙨𝙩𝙖𝙡𝙡
+1.  Jika telah terdeteksi ketikan perintah dibawah & enter ⌨️
+	adb shell
+
+	⇒ sekarang muncul codename xiaomi kamu (kini jembatan telah terbentuk)
+		C:\Minimal ADB and Fastboot>adb shell
+		codename:/ $
+
+✍️✍️✍️
+2. Ketik perintah & enter ⌨️
+	pm uninstall -k --user 0 'com.corporate.installerName'
+
+contoh :
+	pm uninstall -k --user 0 'com.caf.fmradio'
+	pm uninstall -k --user 0 'com.miui.fmservice'
+
+3. jika berhasil akan muncul 'Success' di terminal.
+
+
+
+🔎 𝓜𝓮𝓷𝓬𝓪𝓻𝓲 𝓭𝓮𝓽𝓪𝓲𝓵 𝓷𝓪𝓶𝓪 𝓐𝓹𝓹𝓼
+1. pergi ke pengaturan di HP kamu ⇒ pergi ke Apps /aplikasi ⇒ Manage Apps /app info
+2. Pilih app yang yang dicari ⇒ ketuk tanda ⓘ info ⇒ temukan namanya di APK name
+
+
+ketik
+adb --version		untuk melihat versi yang diinstall
+exit			untuk keluar
+cls			untuk clear/membersihkan jendela terminal
+
+
+⚠️
+🛑🅽🅱
+Perhatikan setiap app yang akan di uninstall,  JANGAN ASAL-ASALAN!
+salah uninstall bisa berakibat malfungsi-brick- hingga bootloop.
+BERBAHAYA!!☣️☢️
+tapi kalau terlanjur terjadi?? siapkan kopi☕🚬camilan🍟🍿kuota📳🌐 ⇒ googling di yandex.
+
+😃 𝙎𝙚𝙢𝙤𝙜𝙖 𝙗𝙚𝙧𝙢𝙖𝙣𝙛𝙖𝙖𝙩  
+⚛️ 𝙄𝙇𝙆𝙃𝙊𝙀𝙍𝙄
