@@ -1,6 +1,8 @@
-## ❝Easily-Remove-Xiaomi-Bloatware-Without-Root❞
-### ✍️𝙐𝙣𝙞𝙣𝙨𝙩𝙖𝙡𝙡 𝘼𝙥𝙥 𝙗𝙡𝙤𝙖𝙩𝙬𝙖𝙧𝙚 𝙓𝙞𝙖𝙤𝙢𝙞
-**Tanpa root dan tanpa UBL kamu bisa uninstall aplikasi bawaan / bloatware, khususnya XIAOMI.**
+## ❝Easily Remove Xiaomi Bloatware Without Root❞
+### ✍️ Tanpa root dan tanpa UBL kamu bisa uninstall aplikasi bawaan / bloatware, khususnya XIAOMI.
+
+**GUIDE**
+
 
 <details>
 <summary>💽 𝙄𝙣𝙨𝙩𝙖𝙡𝙖𝙨𝙞</summary>
@@ -41,7 +43,7 @@
     - 2. Atau tekan `shift + klik kanan` ⇒  `open command window here` atau `Open PowerShell window here`
 
 2. Terbuka terminal ketik atau salin perintah berikut
-    ```
+    ```cirru
     adb devices
     ```
 3. Muncul izin otorisasi di HP
@@ -57,7 +59,7 @@
     
 	- jika berhasil akan muncul command berikut diterminal CMD
     
-    ```
+    ```cirru
 	C:\Minimal ADB and Fastboot>adb devices
 	List of devices attached
 	* daemon not running; starting now at tcp:5037
@@ -78,7 +80,7 @@
 <summary>🪦 𝙀𝙠𝙨𝙚𝙠𝙪𝙨𝙞 - 𝙪𝙣𝙞𝙣𝙨𝙩𝙖𝙡𝙡</summary>
 
 1.  Jika telah terdeteksi ketikan perintah dibawah & enter ⌨️
-	```
+	```cirru
 	adb shell
 	```
 
@@ -91,17 +93,17 @@
 ✍️✍️✍️
 
 2. Ketik perintah & enter ⌨️
-    ```
+    ```cirru
     pm uninstall -k --user 0 'com.xxx.xxx'
     ```
 
     - contoh :
     
-    ```
+    ```cirru
     pm uninstall -k --user 0 'com.caf.fmradio'
     ```
     
-    ```
+    ```cirru
     pm uninstall -k --user 0 'com.miui.fmservice'
     ```
 
@@ -121,17 +123,17 @@
 
 
     - Untuk melihat versi yang diinstall
-    ```
+    ```cirru
     adb --version
     ```
 		
     - Untuk keluar
-    ```
+    ```cirru
     exit
     ```
 		
     - untuk clear/membersihkan jendela terminal
-    ```
+    ```cirru
     cls
     ```
   
