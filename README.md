@@ -146,7 +146,7 @@
 ⚠️
 🛑
 <details open>
-<summary>**𝘽𝙀𝙍𝘽𝘼𝙃𝘼𝙔𝘼‼️ ☣️☢️**</summary>
+<summary>𝘽𝙀𝙍𝘽𝘼𝙃𝘼𝙔𝘼‼️ ☣️☢️</summary>
 
 ***Perhatikan setiap app yang akan di uninstall,  JANGAN ASAL-ASALAN!
 salah uninstall bisa berakibat malfungsi-brick- hingga bootloop.***
